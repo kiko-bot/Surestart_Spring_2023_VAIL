@@ -1,4 +1,4 @@
-# Computer Vision - Style Transfer
+# Style Transfer
 
 ## Topics covered in today's module
 * Image preprocessing utilities
