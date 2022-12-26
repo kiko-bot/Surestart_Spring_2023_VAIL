@@ -1,8 +1,11 @@
 # Getting Started
 
 ## Topics covered in today's module
-* Introduction to Computer Vision (CV) to understand how machines “see” the visual world.
-* Learn how machines can “read” your emotions by looking at your face.
+* Image preprocessing utilities
+* Image deprocessing utilities
+* Content Loss
+* Style Loss
+* Style Transfer
 
 ## Main takeaways from doing the Colab exercises
 <To be filled>
