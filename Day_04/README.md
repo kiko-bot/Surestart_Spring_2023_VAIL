@@ -8,8 +8,11 @@
 * Dropout
 * Batch norm
 
-## Main takeaways from doing the Colab exercises
+## Main takeaways from doing today's assignment
 <To be filled>
 
-## Challenging / interesting / exciting aspect of today's lesson
+## Challenging, interesting, or exciting aspects of today's assignment
+<To be filled>
+
+## Additional resources used 
 <To be filled>
