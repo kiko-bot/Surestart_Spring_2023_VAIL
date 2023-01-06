@@ -12,11 +12,11 @@
 
 The first 3 weeks will be a self-paced learning phase with the mentoring and support from SureStart, as well as other experienced R&D professionals from other organizations, including top universities.
 
-Day 1:
+Day 1: We start the program off with an introduction to machine learning algorithms, and how a state of the art library makes it easy and fun to run on-the-shelf machine learning models for Linear Regression, Decision Trees and Random Forest.
 
-Day 2:
+Day 2: Once we have looked at simpler machine learning models we come to slightly more powerful AI tools such as Deep Learning models and Tensorflow which is a library in python which helps build deep neural networks as easily as stacking blocks of neural layers.
 
-Day 3:
+Day 3: While there exist many libraries which make it easy to build many complex neural networks, they sheild us from the inner workings of the same and we get what is a blackbox in to their workings. Today we shall build a simple neural network from scratch and study it.
 
 Day 4:
 
