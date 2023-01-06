@@ -13,6 +13,7 @@
 The first 3 weeks will be a self-paced learning phase with the mentoring and support from SureStart, as well as other experienced R&D professionals from other organizations, including top universities.
 
 Day 1: We start the program off with an introduction to machine learning algorithms, and how a state of the art library makes it easy and fun to run on-the-shelf machine learning models for Linear Regression, Decision Trees and Random Forest.
+
 Day 1, We start the program off with an introduction to machine learning algorithms, and how a state of the art library makes it easy and fun to run on-the-shelf machine learning models for Linear Regression, Decision Trees and Random Forest.
 
 
