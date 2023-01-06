@@ -18,11 +18,11 @@ Day 2: Once we have looked at simpler machine learning models we come to slightl
 
 Day 3: While there exist many libraries which make it easy to build many complex neural networks, they sheild us from the inner workings of the same and we get what is a blackbox in to their workings. Today we shall build a simple neural network from scratch and study it.
 
-Day 4:
+Day 4: Going one step further with neural network architectures, we explore an architecture widely used in Computer Vision tasks, Convolutional Neural Networks. They are known for their ability to compound smaller patterns into larger more humanly-recognizable ones.
 
-Day 5:
+Day 5: An important part of the learning process of any machine learning algorithm is its loss function or cost function. It maps an event or values of one or more variables onto a real number intuitively representing some "cost" associated with the event. We study loss functions related to Regression based algorithms on this day.
 
-Day 6:
+Day 6: Progressing from the previous day we come over to losses regarding Classification related algorithms on this day. They differ from regression loss functions in as regression loss functions aim at predicting quantities while classificaiton loss functions aim at predicting class and labels.
 
 Day 7:
 
