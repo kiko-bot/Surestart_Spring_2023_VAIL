@@ -10,4 +10,12 @@
 
 ## Phase 1
 
+The first 3 weeks will be a self-paced learning phase with the mentoring and support from SureStart, as well as other experienced R&D professionals from other organizations, including top universities.
+
+<Add content about study materials in first phase>
+
 ## Phase 2
+
+The last 2 weeks of the program will lead upto a Makeathon where students will apply their learnings from Phase 1 to conduct conduct group-based ideation and creation. The students will work in small teams of 4-5 participants to develop an AI-based solution to a real-world problem for the program Makeathon. Each team will be paired up with a mentor to provide guidance and support thorugh Phase 2.
+
+The final projects created by the students will be presented on the last day of the program to a judging panel of the industry experts from partner tech organizations. Winning teams will recieve cash prizes and participants will recieve certificates of completion.
