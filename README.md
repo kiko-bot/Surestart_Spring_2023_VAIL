@@ -8,15 +8,15 @@
 |  | [Day 13](https://github.com/MySureStart/Spring_2023_VAIL/tree/main/Day_13/) | [Day 14](https://github.com/MySureStart/Spring_2023_VAIL/tree/main/Day_14/) | Review | Day 15 | Day 16 | | 
 |  | Day 17 | Day 18| Day 19 | Day 20 | Finale | |
 
-## Phase 1
+## Program Phase 1: The Tech Training Phase
 
-The first 3.5 weeks will be a self-paced learning phase with the mentoring and support from SureStart, as well as other experienced R&D professionals from other organizations, including top universities.
+The first phase of SureStart VAIL is the Tech Training phase, which will last 3.5 weeks. This phase is a self-paced learning phase, in which students working in a team-based learning environment, supported by SureStart mentors, complete 14 technical modules focussed on building foundational AI knowledge and hands-on Machine Learning skills. Besides mentoring from the SureStart mentoring team, trainees will also receive advice, tips and recommendations for experienced academics and industry experts through our Career Pathways seminar series.
+
+The modules are as follows:
 
 Day 1: We start the program off with an introduction to machine learning algorithms, and how a state of the art library makes it easy and fun to run on-the-shelf machine learning models for Linear Regression, Decision Trees and Random Forest.
 
-**Day 1** We start the program off with an introduction to machine learning algorithms, and how a state of the art library makes it easy and fun to run on-the-shelf machine learning models for Linear Regression, Decision Trees and Random Forest.
-
-Day 2: Once we have looked at simpler machine learning models we come to slightly more powerful AI tools such as Deep Learning models and Tensorflow which is a library in python which helps build deep neural networks as easily as stacking blocks of neural layers.
+Day 2: Once we have looked at simpler machine learning models, we come to slightly more powerful AI tools such as Deep Learning models and Tensorflow which is a library in python which helps build deep neural networks as easily as stacking blocks of neural layers.
 
 Day 3: While there exist many libraries which make it easy to build many complex neural networks, they sheild us from the inner workings of the same and we get what is a blackbox in to their workings. Today we shall build a simple neural network from scratch and study it.
 
@@ -42,8 +42,27 @@ Day 13: A slight improvement to the autoencoders gives us the generative adversa
 
 Day 14: We have a task, style transfer, which is very connected to generative adversarial networks but differ in one simple way. We shall learn about this difference during this day and more.
 
-## Phase 2
+## Program Phase 2: The Tech Innovation Phase
+During the Innnovation phase of our Virtual AI intensive, the last 1.5 weeks, trainee teams will identify real-world problems, consider the ethical and social implications of the proposed projects, and apply their technical knowledge to innovate and address problems that are of import and impact in their local and global contexts.  Each team will be paired up with a mentor to provide guidance in developing and presenting their Innovation projects.
 
-The last 1.5 weeks of the program will lead upto a Makeathon where students will apply their learnings from Phase 1 to conduct conduct group-based ideation and creation. The students will work in small teams of 4-5 participants to develop an AI-based solution to a real-world problem for the program Makeathon. Each team will be paired up with a mentor to provide guidance and support thorugh Phase 2.
+The final projects will be presented in a Makeathon, in which teams will showcase to a judging panel of experts from industry and academia, and to a global audience of peers, mentors, and potential employers how they applied their technical knowledge to  develop prototypes of AI-based solutions to address social challenges. Winning teams will recieve cash prizes and certificates. 
 
-The final projects created by the students will be presented on the last day of the program to a judging panel of the industry experts from partner tech organizations. Winning teams will recieve cash prizes and participants will recieve certificates of completion.
+Prior to 10 AM EST of the first day of Phase 2, we will release the Makeathon theme choices. You will select one of them on which base your Innovation project. All support materials, forms, and judging rubric and expectations will also be shared with it. 
+
+While in this phase, individuals and teams have no specific modules to follow, here are our recommendations:
+
+Day 15: Identify Makeathon theme and share back with SureStart using the appropriate form. Begin brainstorm ideas for a social impact problem that is meaningful to your team. Each team member should review the [Entrepreneurial Mindset Guide](https://mysurestart.com/s/MIT-FutureMakers-Create-a-thon-Guide.pdf). Continue ideating and brainstorming in your teams. Use the Entrepreneurial Mindset Guide to define roles and tasks for each team member. Every team member must have at least 1 primary task that they are leading, and 1-2 tasks that they are supporting. Set up time to meet with your Business Mentors, if you have not already done so.
+
+Day 16: Problem and Solution Outline -> Outline what is the primary problem you are going to solve? How you expect to solve it use AI/ML? What do you expect to build? What kind of data you are going to need to build it? Will you build a model or will you use an off-the-shelf model or library? Begin researching both requirements. Start your Deck Development -> Begin by creating a skeleton of the headers.
+
+The Weekend before: Continue developing your project. Begin Market Research -> Start by asking who is your work going to benefit (these are your end-users and/or customers)? How are you going to get their input? Have an outreach plan; create surveys and begin setting up interviews. Start reaching out to folks you want to survey/interview. Do your Competitive Landscape Analysis -> Consider who else is solving this problem. What is left unsolved? Why? With this knowledge, refine your proposed solution. Begin your Tech Development -> Start by identifying and acquiring/creating datasets your need; outlining the model you will need to build, or exploring off-the-shelf model or libraries if that is the direction you want to go. Begin building the scaffolding code you will need to implement your solution. Watch some [past SureStart Makeathon winners](https://www.youtube.com/watch?v=a9FyCODLflg&list=PLsSCYP2a9mZhAVJLVefDkOskkoW8m_UwH)
+
+Day 17: Finish your Competitive Landscape Analysis. Continue to Market Research work. Continue your Tech Development. Start your Deck Development if you have not yet. Begin outlining your Pitch: aka, what you will say during your **5-minute final project presentations**. 
+
+Day 18: Finalize the Tech Dev process. Share the **required one page description of your project** using the template provided. Continue all other threads of work. Keep practicing your Pitch.  
+
+Day 19: Finish your Market Research. Your Tech and Deck development should be near complete. Keep practicing your Pitch.  
+
+Day 20: Finish all threads of work. Keep practicing your Pitch.
+
+Last day: Show up 15 minutes before the final presentation. Dress professionally. Present your team project at the Makeathon with confidence and pride. Celebrate successful program completion!
