@@ -1,7 +1,9 @@
 # Optimization
 
 ## Topics covered in today's module
-* 
+* Optimization
+* Gradident Descent
+* Optimizers(SGD, ADAM, etc.)
 
 ## Main takeaways from doing today's assignment
 <To be filled>
