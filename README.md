@@ -14,7 +14,7 @@ The first phase of SureStart VAIL is the Tech Training phase, which will last 3.
 
 The modules are as follows:
 
-Day 1: We start the program off with an introduction to machine learning algorithms, and how a state of the art library makes it easy and fun to run on-the-shelf machine learning models for Linear Regression, Decision Trees and Random Forest.
+*Day 1*: We start the program off with an introduction to machine learning algorithms, and how a state of the art library makes it easy and fun to run on-the-shelf machine learning models for Linear Regression, Decision Trees and Random Forest.
 
 Day 2: Once we have looked at simpler machine learning models, we come to slightly more powerful AI tools such as Deep Learning models and Tensorflow which is a library in python which helps build deep neural networks as easily as stacking blocks of neural layers.
 
