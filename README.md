@@ -20,25 +20,25 @@ The first phase of SureStart VAIL is the Tech Training phase, which will last 3.
 
 The modules are as follows:
 
-__Day 1__: We start the program off with an introduction to machine learning algorithms, and how a state of the art library makes it easy and fun to run on-the-shelf machine learning models for Linear Regression, Decision Trees and Random Forest.
+__Day 1__: We start Phase 1 with an introduction to machine learning algorithms, and how a state-of-the-art library makes it easy and fun to run on-the-shelf machine learning (ML) models for Linear Regression, Decision Trees and Random Forest.
 
-__Day 2__: Once we have looked at simpler machine learning models, we come to slightly more powerful AI tools such as Deep Learning models and Tensorflow which is a library in python which helps build deep neural networks as easily as stacking blocks of neural layers.
+__Day 2__: Having had a general introduced to ML through simpler machine learning models, we will jump into Deep Learning, a more powerful ML modeling approach. We will also get an introduction to Tensorflow, a Python library that helps us to build deep neural networks easily and quickly. 
 
-__Day 3__: While there exist many libraries which make it easy to build many complex neural networks, they sheild us from the inner workings of the same and we get what is a blackbox in to their workings. Today we shall build a simple neural network from scratch and study it.
+__Day 3__: The exist many Python libraries that make it easy and efficient for us to build complex neural networks. However, these libraries create bit of a "blackbox" around their internal workings of how these networks are actually put together. So, today, with a goal to remove the "blackbox", we will build a simple neural network from scratch, and study the various aspects of these networks step-by-step over the next few days.
 
-__Day 4__: Going one step further with neural network architectures, we explore an architecture widely used in Computer Vision tasks, Convolutional Neural Networks. They are known for their ability to compound smaller patterns into larger more humanly-recognizable ones.
+__Day 4__: Going one step further with neural network architectures, we explore a widely used deep architecture called Convolutional Neural Networks (or CNNs). CNNs are known for their ability to compound smaller patterns into larger more humanly-recognizable ones, and often used for Computer Vision related modeling tasks.
 
-__Day 5__: An important part of the learning process of any machine learning algorithm is its loss function or cost function. It maps an event or values of one or more variables onto a real number intuitively representing some "cost" associated with the event. We study loss functions related to Regression based algorithms on this day.
+__Day 5__: An important part of the learning process of any machine learning algorithm is its loss function (or cost function). It maps an event or values of one or more variables onto a real number, intuitively representing some "cost" associated with the event. We start by studying loss functions related to regression-related models.
 
-__Day 6__: Progressing from the previous day we come over to losses regarding classification related algorithms on this day. They differ from regression loss functions in as regression loss functions aim at predicting quantities while classificaiton loss functions aim at predicting class and labels.
+__Day 6__: Progressing from the previous day, today we discuss loss in the context of classification-related algorithms. Classification loss differ from regression loss; regression loss functions aim at predicting quantities while classificaiton loss functions aim at predicting class and labels.
 
-__Day 7__: The next topic is very connected to the previous topic. We can have a loss/cost function which tells how accurate the given machine learning model is at its prediction, but we need another alogrithm which is able to chagne the weigths of the model to lower the loss/cost function such that our model gets better at its predictions. We call such an algorithm optimizers.
+__Day 7__: The next topic is very connected to the previous topic. We can have a loss (or cost) function that represents how accurate a given machine learning model is at the prediction task, but we also need another algorithm that is able to change the weights of the model to lower the loss/cost function, such that the associated model gets better at the prediction task. Such algorithms are referred to as "optimizers", which we will study in this module. 
 
-__Day 8__: All neural networks on the basis of their perceptrons/nodes are still very linear in their function. We add intermediate nodes we pass our outputs through in order to add non-linearity and fit our model to more complex problems. Such nodes use what we call activation functions.
+__Day 8__: Considering just on the perceptrons/nodes, all neural networks are still very linear in their function. But to model complex real-world data, we need to add non-linearity. This is accomplished by adding intermediate nodes that apply non-linear functions called "activation functions" to the outputs of the neural network layer preceding it before it is ingested by the next layer. Today we will explore the various kinds of activation functions.
 
-__Day 9__: With any machine learning models, what is of the utmost importance is data, and the quality of such data. Based on how and how much we train our models it is possible to make it learn not enough from the data or learn the details rather than the patterns of given data. We learn how to combat such situations on this day.
+__Day 9__: Three crucial aspects of any machine learning model are the quality and quantity of data on which it is based, how we train the models, and how long we train the models. Problems with any three of these aspects can result in a model that has not learned enough from the data, or not learned the true patterns in the data and instead glommed onto the wrong details in the data, thus producing sub-optimal predictve outcomes. We learn how to combat such applied problems on this day.
 
-__Day 10__: We delve futher into how to handle overfitting and underfitting by learning of modifications we can make to our neural network for it. 
+__Day 10__: We delve futher into how to handle overfitting and underfitting problems by learning about modifications we can make to our neural network to address them. 
 
 __Day 11__: Given the AI and Machine Learning's growing role in human decision-making and its large implications, today we will consider Data Ethics, Data Bias, the negative consequences of failing to make ethical considerations part of the process, and concrete an Ethical AI Framework to incorporate in our technical development, so that we can build AI, Machine Learning and data-based tech solutions that are inclusive, equitable and fair. 
 
