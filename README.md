@@ -51,9 +51,9 @@ __Day 14__: We have a task, style transfer, which is very connected to generativ
 ## Program Phase 2: The Tech Innovation Phase
 During the Innnovation phase of our Virtual AI intensive (the last 1.5 weeks), trainee teams will **identify ONE real-world problem** that is of import and impact in their local and global contexts; **define a Capstone Project** to address the selected real-world problem; and **apply their newly-learned AI, ML and data skills to solve** the problem. Teams will continue to receive guidance and support from mentors in developing and presenting their Innovation projects.
 
-Prior to 10 AM EST of the first day of Phase 2, we will release the Makeathon theme choices. You will select one of them on which base your Innovation project. All support materials, forms, and judging rubric and expectations will also be shared with it. 
+Prior to 10 AM EST of the first day of Phase 2, we will release the Makeathon theme choices. You will select one of them on which to base your Capstone project. All support materials, forms, and judging rubric and expectations will also be shared with it. 
 
-While in this phase, individuals and teams have no specific Colab notebooks to work on, here are our recommendations for a modular approach to working on your :
+Though in this phase individuals and teams have no specific Colab notebooks to work on, here are our recommendations for a modular approach to working on your Capstone project:
 
 __Day 15__: Identify Makeathon theme and share back with SureStart using the appropriate form. Begin brainstorm ideas for a social impact problem that is meaningful to your team. Each team member should review the [Makeathon Guide](https://mysurestart.com/s/VAIL-Create-a-thon-Guide.pdf). Continue ideating and brainstorming in your teams. Use the Makeathon Guide to define roles and tasks for each team member. Every team member must have at least 1 primary task that they are leading, and 1-2 tasks that they are supporting. Set up time to meet with your Business Mentors, if you have not already done so.
 
