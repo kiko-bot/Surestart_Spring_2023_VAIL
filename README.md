@@ -1,10 +1,10 @@
 ![MySureStart Logo](https://images.squarespace-cdn.com/content/v1/5f45536caa356e6ab51588f4/1599580657611-7A6YX9MGA2YHJCQ46QSB/SureStart+Logo.png)
 
-# SureStart Virtual AI Learning (VAIL) Program – Deep Learning Focus  
+# SureStart Virtual AI Learning (VAIL) Program – Applied Deep Learning Focus  
 
-This 5-week program brings together students from across the world to create a deliberately diverse group of learners, who are developing applied technical skills related to AI, machine learning, and related technologies such as computer vision, along with "power" skills critical for career success through a virtual program led by experienced technical mentors and coaches.
+The goal of the SureStart VAIL (with an Applied Deep Leaning focus) program, is to support a global community of high-achieving, ambitious, and diverse group of tech-career aspirants, in developing applied technical skills related to AI, machine learning, and related technologies such as computer vision, along with "power" skills critical for career success through a virtual program led by proximate technical mentors and supported by experts from industry and academia.
 
-As a SureStart VAIL Trainee, you will learn foundational concepts related to AI, get hands-on experience developing machine learning models, and practice using your skills to build AI solutions for real-world problems.
+As a SureStart VAIL Trainee, you will learn foundational concepts related to AI, get hands-on experience developing machine learning models, and practice using your skills to build AI solutions for real-world problems, using the a modular learning approach in a mentoring-centered environment. During the 5-weeks of the program, you will encounter the modules, per the following plan. 
 
 | Sun | Mon | Tue | Wed| Thu | Fri | Sat|
 |-   |-     | --  |-   |-    | -   | -  |
