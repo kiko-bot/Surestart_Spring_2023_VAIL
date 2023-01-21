@@ -49,13 +49,11 @@ __Day 13__: A slight improvement to the autoencoders gives us the generative adv
 __Day 14__: We have a task, style transfer, which is very connected to generative adversarial networks but differ in one simple way. We shall learn about this difference during this day and more.
 
 ## Program Phase 2: The Tech Innovation Phase
-During the Innnovation phase of our Virtual AI intensive, the last 1.5 weeks, trainee teams will identify real-world problems, consider the ethical and social implications of the proposed projects, and apply their technical knowledge to innovate and address problems that are of import and impact in their local and global contexts.  Each team will be paired up with a mentor to provide guidance in developing and presenting their Innovation projects.
-
-The final projects will be presented in a Makeathon, in which teams will showcase to a judging panel of experts from industry and academia, and to a global audience of peers, mentors, and potential employers how they applied their technical knowledge to  develop prototypes of AI-based solutions to address social challenges. Winning teams will recieve cash prizes and certificates. 
+During the Innnovation phase of our Virtual AI intensive (the last 1.5 weeks), trainee teams will **identify ONE real-world problem** that is of import and impact in their local and global contexts; **define a Capstone Project** to address the selected real-world problem; and **apply their newly-learned AI, ML and data skills to solve** the problem. Teams will continue to receive guidance and support from mentors in developing and presenting their Innovation projects.
 
 Prior to 10 AM EST of the first day of Phase 2, we will release the Makeathon theme choices. You will select one of them on which base your Innovation project. All support materials, forms, and judging rubric and expectations will also be shared with it. 
 
-While in this phase, individuals and teams have no specific modules to follow, here are our recommendations:
+While in this phase, individuals and teams have no specific Colab notebooks to work on, here are our recommendations for a modular approach to working on your :
 
 __Day 15__: Identify Makeathon theme and share back with SureStart using the appropriate form. Begin brainstorm ideas for a social impact problem that is meaningful to your team. Each team member should review the [Makeathon Guide](https://mysurestart.com/s/VAIL-Create-a-thon-Guide.pdf). Continue ideating and brainstorming in your teams. Use the Makeathon Guide to define roles and tasks for each team member. Every team member must have at least 1 primary task that they are leading, and 1-2 tasks that they are supporting. Set up time to meet with your Business Mentors, if you have not already done so.
 
