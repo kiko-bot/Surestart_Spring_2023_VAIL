@@ -30,7 +30,7 @@ __Day 4__: Going one step further with neural network architectures, we explore 
 
 __Day 5__: An important part of the learning process of any machine learning algorithm is its loss function (or cost function). It maps an event or values of one or more variables onto a real number, intuitively representing some "cost" associated with the event. We start by studying loss functions related to regression-related models.
 
-__Day 6__: Progressing from the previous day, today we discuss loss in the context of classification-related algorithms. Classification loss differ from regression loss; regression loss functions aim at predicting quantities while classificaiton loss functions aim at predicting class and labels.
+__Day 6__: Today, we will discuss loss in the context of classification-related algorithms. Classification loss differ from regression loss; regression loss functions aim at predicting quantities while classificaiton loss functions aim at predicting class and labels.
 
 __Day 7__: The next topic is very connected to the previous topic. We can have a loss (or cost) function that represents how accurate a given machine learning model is at the prediction task, but we also need another algorithm that is able to change the weights of the model to lower the loss/cost function, such that the associated model gets better at the prediction task. Such algorithms are referred to as "optimizers", which we will study in this module. 
 
