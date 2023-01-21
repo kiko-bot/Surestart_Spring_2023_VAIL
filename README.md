@@ -40,7 +40,7 @@ __Day 9__: With any machine learning models, what is of the utmost importance is
 
 __Day 10__: We delve futher into how to handle overfitting and underfitting by learning of modifications we can make to our neural network for it. 
 
-__Day 11__: In previous days and even today there are questions on the rammifications of the capabilities of Machine Learning algorithms. As they learn from what data we give them, it is very important to vet what it gets. As it is easier to remove bias from machines than from humans manually. We learn of things to be careful of with the ethics of Machine Learning.
+__Day 11__: Given the AI and Machine Learning's growing role in human decision-making and its large implications, today we will consider Data Ethics, Data Bias, the negative consequences of failing to make ethical considerations part of the process, and concrete an Ethical AI Framework to incorporate in our technical development, so that we can build AI, Machine Learning and data-based tech solutions that are inclusive, equitable and fair. 
 
 __Day 12__: Another slightly advanced architecture of neural networks is an autoencoder. Unlike previously discussed deep learning algorithms this architecture is unsupervised. Which means we do not give it labels to learn from, but simply the input image. We shall see similar network structure in coming days.
 
