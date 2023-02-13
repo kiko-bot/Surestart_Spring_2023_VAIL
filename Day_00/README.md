@@ -12,10 +12,10 @@ Since it’s a separate chip, it can perform its calculations at the same time a
 * Pandas basics
 
 ## Main takeaways from doing today's assignment
-* I learnt a lot of about CPUs, GPUs, AND TPUs
+* I had a refresher on python basics such as functions, strings, dictionaries, lists and sets
 
 ## Challenging, interesting, or exciting aspects of today's assignment
-* I enjoed learning how to use Google Collab
+* I found the palindrome question challenging
 
 ## Additional resources used 
 * Geeks for geeks website
